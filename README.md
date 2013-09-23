@@ -19,3 +19,8 @@ Useful URLs
 <h4>Mozilla Public Profiles</h4> http://mozillians.org
 
 <h4>Air Mozilla - Tech Talks</h4> http://air.mozilla.org
+
+Projects
+-----
+
+<h4>OpenMusic</h4> https://github.com/ColdenCullen/OpenMusic
